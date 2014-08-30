@@ -1,0 +1,27 @@
+[submodule "wangximing"]
+	path = wangximing
+	url = git@github.com:sighWang/jasmine-guessnumber.git
+[submodule "wangyufei"]
+	path = wangyufei
+	url = git@github.com:sorashiro/test.git
+[submodule "zhangwei"]
+	path = zhangwei
+	url = git@github.com:lzhangwei/GuessNumber.git
+[submodule "sukai"]
+	path = sukai
+	url = git@github.com:SnakeWorker/jasmine_guessNumber.git
+[submodule "liyanzi"]
+	path = liyanzi
+	url = git@github.com:mumuyang1/Jasmine.git
+[submodule "xueqian"]
+	path = xueqian
+	url = git@github.com:XueQian/guessNumber_jasmine.git
+[submodule "wanghuan"]
+	path = wanghuan
+	url = git@github.com:adabeauty/guess_number_test.git
+[submodule "cuifugang"]
+	path = cuifugang
+	url = git@github.com:fgcui1204/guess-number.git
+[submodule "zhangzhihui"]
+	path = zhangzhihui
+	url = git@github.com:xiaoyanzhuzzh/jasmine.git
